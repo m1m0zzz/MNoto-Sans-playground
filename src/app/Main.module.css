@@ -1,0 +1,24 @@
+.previewContainer {
+  width: 100%;
+}
+
+.previewHeading {
+  padding-bottom: 4px;
+  border-bottom: solid 2px #cdcdcd;
+}
+
+.preview {
+  width: 100%;
+  padding: 4px 8px;
+  font-size: 1.25rem;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  min-height: 200px;
+  margin: 1rem;
+}
